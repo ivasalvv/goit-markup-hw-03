@@ -314,7 +314,7 @@ img {
 
 .filters {
   margin-top: 96px;
-  margin-bottom: 120px;
+  padding-bottom: 120px;
 }
 
 .foot-button {
@@ -361,7 +361,7 @@ img {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 24px;
+  gap: 48px 24px;
 }
 
 .portfolio li {
